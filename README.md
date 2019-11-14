@@ -1,2 +1,2 @@
 # CI_siakad
-Sistem Informasi Akademik Sekolah
+Sistem Informasi Akademik Sekolah built with Code Igniter Framework
